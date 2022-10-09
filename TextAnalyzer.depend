@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1665318483 source:c:\users\mnm95\documents\uni stuff\sem 4\caa\uprajnenia\textanalyzer\main.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+
